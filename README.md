@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @jayparmar88
-- 🌱 I’m student of learning IT Engineering.
+- 🌱 I’m student of IT Engineering.
