@@ -1,2 +1,3 @@
-- 👋 Hi, I’m @jayparmar88
-- 🌱 I’m student of IT Engineering.
+- 👋 Hi, I’m @jayparmar88 from Ahmedabad, Gujarat.
+- ✨I have completed my bachelor's in IT Engineering from L.D. College of Engineering, Ahmedabad in 2023.
+- ✨ I am interested in Data Science and Machine Learning.
